@@ -85,7 +85,7 @@
             },
             "attrs": {
               "text": {
-                "text": "User"
+                "text": "User/Browser"
               },
               "body": {
                 "stroke": "#333333",
@@ -99,7 +99,7 @@
             "zIndex": 2,
             "data": {
               "type": "tm.Actor",
-              "name": "User",
+              "name": "User/Browser",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
